@@ -74,15 +74,17 @@ programming by disabling input triggers during active state transitions.
 
 ---
 
-### **Personal Interests & Languages**
-* **Interests:** Tracking emerging technology trends, Mobile system customization (custom ROMs), Electronics debugging and troubleshooting, Technical quiz participation.
-* **Languages:** English (Professional), Tamil (Native), German (Elementary proficiency).
-* **Soft Skills:** Problem Solving, Accountability, Team Collaboration, Time Management, Public Speaking, Event Coordination.
-
----
-
 ### **Achievements & Awards**
 * **Finalist – Flinders University International AI Challenge:** Among the top 20 finalists out of 250+ global participants; designed AI character instructions resistant to prompt injection.
 * **Mahatma Gandhi Merit Scholarship Award:** Recognized for outstanding academic excellence.
 * **Bluestar Foundation Scholar:** Selected as one of 167 scholars in India for soft skills training and a scholarship.
 * **Winner – IEEE WIE Cyberquest & APS WaveNexus:** Secured first place in multiple quiz competitions.
+  
+---
+
+### **Personal Interests & Languages**
+* **Interests:** Tracking emerging technology trends, Mobile system customization (custom ROMs), Electronics debugging and troubleshooting, Technical quiz participation.
+* **Languages:** English (Professional), Tamil (Native), German (Elementary proficiency).
+* **Soft Skills:** Problem Solving, Accountability, Team Collaboration, Time Management, Public Speaking, Event Coordination.
+
+
