@@ -25,10 +25,13 @@ Engineering undergraduate from an **Electronics and Communication** background w
 ---
 
 ### **Technical Skills**
-* **Languages & Core:** JavaScript, Python, C++, Embedded C
-* **Web & Frontend:** HTML, CSS, React.js, Bootstrap
-* **Backend, Databases & APIs:** Django, Node.js, Express.js, MongoDB, PostgreSQL, Firebase, REST APIs, JWT, Microsoft Graph API, Postman
-* **Version Control, Deployment & OS:** Git, GitHub, Netlify, Zoho Catalyst, Linux CLI, Docker, Azure VM
+* **Languages:** JavaScript, Python, C++, Embedded C
+* **Frontend:** HTML, CSS, React.js, Bootstrap
+* **Backend:** Node.js, Express, MongoDB, Firebase, Django, Postgres
+* **API & Authentication:** Microsoft Graph API, Postman, JWT, Django REST Framework
+* **Integration & Automation Tools:** n8n, Celery, Redis
+* **Version Control & Deployment:** Git and GitHub, Netlify, Zoho Catalyst, Docker, Microsoft Azure (Virtual Machines)
+* **Operating Systems:** Linux CLI (basic commands)
 
 ---
 
