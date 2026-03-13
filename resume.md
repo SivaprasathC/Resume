@@ -67,6 +67,7 @@ programming by disabling input triggers during active state transitions.
 ---
 
 ### **Certifications**
+* **Value Added Course on Machine Learning for Signal & Image Processing using Raspberry Pi** — Zeekers Technology Solutions
 * **Introduction to Internet of Things (Top 1%)** — NPTEL (IIT Kharagpur)
 * **MongoDB Certification** — Great Learning
 * **Introduction to Django** — LinkedIn Learning
